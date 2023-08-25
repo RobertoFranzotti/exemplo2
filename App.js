@@ -1,5 +1,5 @@
 import { useState } from "react";
-<<<<<<< HEAD
+
 import { Image, TouchableOpacity, View, FlatList, Alert } from "react-native";
 import uuid from "react-native-uuid";
 
@@ -92,7 +92,7 @@ export default function Home() {
           )}
         />
       </View>
-=======
+
 import { FlatList, Text, View } from "react-native";
 
 // Component
@@ -132,7 +132,7 @@ export default function App() {
           </View>
         )}
         />*/}
->>>>>>> c2a0a4548ab9fb779c106a871c3c93ec5bf9793d
+
     </View>
   );
 }
