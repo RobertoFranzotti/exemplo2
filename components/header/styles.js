@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
@@ -36,3 +37,6 @@ export const styles = StyleSheet.create({
     borderRadius: 999,
   },
 });
+=======
+import {  } from "react";
+>>>>>>> c2a0a4548ab9fb779c106a871c3c93ec5bf9793d

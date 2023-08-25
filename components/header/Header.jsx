@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { Text, View } from "react-native";
 
@@ -19,3 +20,10 @@ export function Header({ tasksCreated, completedTasks }) {
     </View>
   );
 }
+=======
+import { App } from "react-native";
+
+export function Header(){
+    
+}
+>>>>>>> c2a0a4548ab9fb779c106a871c3c93ec5bf9793d

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { TouchableOpacity } from "react-native";
 import Feather from "@expo/vector-icons/Feather";
 import { styles } from "./styles";
@@ -9,3 +10,15 @@ export function Button({ ...rest }) {
     </TouchableOpacity>
   );
 }
+=======
+import React from 'react';
+import { TextInput } from 'react-native';
+import { styles } from './styles';
+
+
+export const Input = (props) => {
+  return <TextInput style={styles.input} />;
+
+
+}
+>>>>>>> c2a0a4548ab9fb779c106a871c3c93ec5bf9793d

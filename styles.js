@@ -3,6 +3,7 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
+<<<<<<< HEAD
     backgroundColor: "#1A1A1A"
   },
 
@@ -29,3 +30,16 @@ export const styles = StyleSheet.create({
     paddingHorizontal: 24,
   },
 });
+=======
+    backgroundColor: '#1a1a1a',
+           
+  },
+  header: {
+    width: 420,
+    height: 190,
+    backgroundColor: "#0C0C0D",
+
+  }
+
+});
+>>>>>>> c2a0a4548ab9fb779c106a871c3c93ec5bf9793d
